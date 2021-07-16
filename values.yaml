@@ -1,4 +1,4 @@
-project: san-01-jump-app
+project: san01-jump-app-dev-helm
 pod:
   replicas: 1
   port: 3000
